@@ -1,0 +1,11 @@
+#ifndef __CONSTANTS_H__
+#define __CONSTANTS_H__
+
+#define SAMPLE_RATE 44100.0f
+#define invSAMPLE_RATE 0.000022675736961451248f
+
+#define PI 3.14159265352f
+#define PI_samplerate 0.000071237928652829774f
+#define TWOPI 6.2831853071795862f
+
+#endif
